@@ -30,7 +30,6 @@ Una is an AI host for Airbnb and hotels. She answers calls, manages bookings, an
 - 🌐 **Website:** [polydom.ai](https://polydom.ai)
 - 💼 **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 - 📸 **Instagram:** [polydom.ai](https://www.instagram.com/polydom.ai)
-- 🟢 **Status:** [status.polydom.ai](https://status.polydom.ai)
 
 **Una on PMS Marketplaces:**
 [Apaleo](https://store.apaleo.com/apps/una) · [Mews](https://www.mews.com/en/products/marketplace/una) · [Guesty](https://www.guesty.com/marketplace-items/una/) · [Clock](https://www.clock-software.com/products/integrations/una)
