@@ -8,7 +8,7 @@ We build autonomous AI employees that operate hotels, Airbnb properties, resorts
 
 ## Our Product
 
-### [Una](https://github.com/polydom-ai/una) — Autonomous AI Digital Employee
+### [Una](https://github.com/polydom-ai/una-by-polydom) — Autonomous AI Digital Employee
 
 Una is an AI host for Airbnb and hotels. She answers calls, manages bookings, and handles guest requests across phone, web, WhatsApp, email, Airbnb inbox, and Booking.com — at **$1/hour**.
 
